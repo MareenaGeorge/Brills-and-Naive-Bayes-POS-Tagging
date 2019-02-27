@@ -1,9 +1,5 @@
-#CS630 NLP Homework 2
-Structure
-	|_bigram.py -contains Q2 source code
-	|_BrillsAndNBPosTagging.py 
-        |_Hw2_Output_Report - contains the output of two source code in Q2 and Q3
-        |_README.md
+#CS6320 NLP 
+
 Language used: Python 3
 
 Q2: Bigram Probabilities
