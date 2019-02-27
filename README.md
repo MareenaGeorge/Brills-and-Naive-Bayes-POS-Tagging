@@ -1,9 +1,7 @@
 #CS630 NLP Homework 2
 Structure
-	|_1.txt - contains Q1
 	|_bigram.py -contains Q2 source code
-	|_BrillsAndNBPosTagging.py - contains Q3 source code
-        |_Hw2_HandComputedReport.pdf -contains hand computed calculation of Q2 and Q3
+	|_BrillsAndNBPosTagging.py 
         |_Hw2_Output_Report - contains the output of two source code in Q2 and Q3
         |_README.md
 Language used: Python 3
